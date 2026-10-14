@@ -34,7 +34,7 @@
 
 <h2 align="center">Trial and Activation</h2>
 
-The trial version is free for 30 days
+The trial version is free 
 
 <h3 align="center">Activation</h3>
 
@@ -112,7 +112,7 @@ Print-file analysis is performed locally on the device
 
 <h2 align="center">التجربة والتفعيل</h2>
 
-<p align="center">النسخة التجريبية مجانية لمدة 30 يوماً</p>
+<p align="center">النسخة التجريبية مجانية</p>
 
 <h3 align="center">التفعيل</h3>
 
